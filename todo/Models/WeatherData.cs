@@ -22,6 +22,6 @@ namespace todo.Models
     {
         public double MaxTempC { get; set; }
         public double MinTempC { get; set; }
-        // Add other properties as needed
+       
     }
 }
